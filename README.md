@@ -49,6 +49,6 @@ If a specific event is searched for, the user is automatically sent an email wit
 I welcome any feedback for this project to improve it.
 
 ## License
-This project is licensed under the MIT License - see the `[LICENSE](https://github.com/SamantaMancini/LICENSE)` file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SamantaMancini/LICENSE) file for details.
 
 
