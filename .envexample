@@ -1,0 +1,8 @@
+DATABASE_URL="sqlite:///./name_database"
+SMTP="smtp.your_gmail.com"
+PORT=587
+USER="your email"
+PASSWORD="your password"
+FROM="your email"
+RECIPIENT="recipient email"
+SUBJECT="subjects"
