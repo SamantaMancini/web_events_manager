@@ -1,4 +1,4 @@
 pytest==8.3.5
-fastapi==0.0.7
+fastapi>=0.112.0,<0.113.0
 sqlalchemy==2.0.40
-dotenv==1.1.0
+python-dotenv==0.10.1
