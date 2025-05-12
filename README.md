@@ -34,8 +34,8 @@ Endpoints:
 If a specific event is searched for, the user is automatically sent an email with all available events for that date.
 
 ## Features
-[ ] Send emails once a day to avoid spam. <br/>
-[ ] Add a history send emails.
+- [ ] Send emails once a day to avoid spam. <br/>
+- [ ] Add a history send emails.
 
 ## Technologies
 - Python3
